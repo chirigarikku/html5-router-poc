@@ -1,5 +1,5 @@
 ## location-hash-router-poc
-A poc router based on the `window.location.hash`.
+A poc of a basic router based on HTML5 History API.
 
 ### Running
 ```
